@@ -59,4 +59,4 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 
 
 ## RESULT:
-The information gathering techniques tools/procedure were  identified successfully
+The information gathering techniques tools/procedure were  identified successfully.
